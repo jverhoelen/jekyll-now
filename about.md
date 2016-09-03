@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-My name is Jonas and I'm working as an IT Consultant and Software Engineer at [codecentric AG](https://codecentric.de) in Solingen. I love working with technologies from the Java and JavaScript worlds and learning new things. During my daily work I'm doing consulting, designing and implementing modern software solutions in the scope of agile teams.
+My name is Jonas and I'm working as an IT Consultant and Software Engineer at [codecentric AG](https://codecentric.de) in Solingen. I love working with technologies from the Java and JavaScript worlds and learning new things. During my daily work I'm consulting, designing and implementing modern software solutions in the scope of agile teams.
 
 I love my profession, company and everything around it so I started this tiny blog to write about my opinions, experiences and solutions.
 
