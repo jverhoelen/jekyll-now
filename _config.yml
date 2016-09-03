@@ -4,6 +4,9 @@ name: Jonas Verhoelen
 # Short bio or description (displayed in the header)
 description: Software Wizard @ codecentric AG
 
+# Opengraph image
+ogImageUrl: https://jverhoelen.github.io/images/og.png
+
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://avatars3.githubusercontent.com/u/6791360?v=3&s=460
 
