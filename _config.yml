@@ -10,7 +10,7 @@ metaDesc: Jonas Verhoelen blogs about Java, Spring, TypeScript, Angular, Continu
 ogImageUrl: https://jverhoelen.github.io/images/og.png
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://avatars3.githubusercontent.com/u/6791360?v=3&s=460
+avatar: images/jverhoelen.small.png
 
 #
 # Flags below are optional
@@ -31,6 +31,7 @@ footer-links:
   stackoverflow: users/5500928/jverhoelen
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
+  xing: Jonas_Verhoelen
 
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
