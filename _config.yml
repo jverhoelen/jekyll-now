@@ -10,7 +10,7 @@ metaDesc: Jonas Verhoelen blogs about Java, Spring, TypeScript, Angular, Continu
 ogImageUrl: https://jverhoelen.github.io/images/og.png
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: images/jverhoelen.small.png
+avatar: /images/jverhoelen.small.png
 
 #
 # Flags below are optional
