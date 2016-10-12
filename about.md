@@ -30,6 +30,6 @@ Don't hesitate to [contact the company](https://www.codecentric.de/kontakt/) if 
 - [codecentric blog: knowledge sharing](https://blog.codecentric.de/)
 - [kununu profile](https://www.kununu.com/de/codecentric)
 
-### Contact me
+### Contact
 
-If you want to, you'll find a way to contact me.
+You'll find a way to contact me without the risk of getting my email address spammed by bots, isn't it?
