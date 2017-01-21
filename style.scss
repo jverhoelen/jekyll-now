@@ -281,6 +281,12 @@ nav {
 footer {
   padding: 20px 0;
   text-align: center;
+
+  .static-links {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-size: 13px;
+  }
 }
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
