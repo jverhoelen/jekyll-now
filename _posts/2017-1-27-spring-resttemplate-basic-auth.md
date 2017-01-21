@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Elegant Basic Authentication with the Spring RestTemplate
+title: Elegant Basic Auth with the Spring RestTemplate
 ---
 
 Communication via HTTP calls is a very common task for Spring applications in times of service oriented and microservice architectures. To secure services from unwanted access, HTTP Basic Access Authentication is a simple and sufficient (assuming usage of HTTPS) strategy.
