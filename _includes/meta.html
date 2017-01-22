@@ -6,6 +6,7 @@
     {% if page.excerpt %}
     <meta name="description" content="{{ page.excerpt| strip_html }}" />
     <meta property="og:description" content="{{ page.excerpt| strip_html }}" />
+    <meta name="twitter:description" content="{{ page.excerpt| strip_html }}" />
     <meta property="og:image" content="{{ site.ogImageUrl }}" />
     <meta property="og:type" content="article" />
     {% else %}
@@ -23,4 +24,8 @@
     <meta property="twitter:title" content="{{ page.title }}" />
     {% else %}
     <meta property="og:title" content="{{ site.description }}" />
+    <meta name="twitter:title" content="{{ site.description }}" />
     {% endif %}
+
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:site" content="@jverhoelen" />
