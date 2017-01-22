@@ -32,7 +32,7 @@ Auto suggestions is a cool Fish Shell feature – I don't want to miss it in Zsh
 
 Fish lets you define custom commands in the appearance of functions in `.config/fish/functions`. For example I had `acp.fish` (add, commit, push for Git).
 
-```
+``` bash
 function acp --description 'Add, commit and push'
     git add .
     git add --all
@@ -43,7 +43,7 @@ end
 
 In Zsh you can just append them to your `~/.zshrc` which is the central configuration. It gets some changes now looks like that to work in Zsh:
 
-```
+``` bash
 function acp() {
     git add .
     git add --all

@@ -17,7 +17,7 @@ Before starting to use Springfox, I saw some non-straightforward implementation 
 
 At first, we're going to include the latest dependencies for both into our `pom.xml`.
 
-```
+``` xml
 <dependency>
     <groupId>io.springfox</groupId>
     <artifactId>springfox-swagger2</artifactId>
@@ -32,7 +32,7 @@ At first, we're going to include the latest dependencies for both into our `pom.
 
 Then we define a separate `SwaggerConfig` class containing all our configuration regarding the generated JSON according to the Swagger Specification.
 
-```
+``` java
 @Configuration
 @EnableSwagger2
 public class SwaggerConfig {
@@ -90,7 +90,7 @@ public class SwaggerConfig {
 
 If you're not able to use Spring Boot and its auto-configuration, make sure you explicitly add resource handlers for the Swagger-UI.
 
-```
+``` java
 @Configuration
 @EnableWebMvc
 public class WebConfig extends WebMvcConfigurerAdapter {
@@ -115,7 +115,7 @@ If you want to take influence on some details of your endpoints' documentation, 
 
 Swagger already provides all information about endpoints with the above basic configuration. Furthermore it offers annotations that can be used to declare exceptional information on request definitions. This can be a special description of an error code, the resulting response, notes about a resource, authorization, parameters and everything else.
 
-```
+``` java
 @ApiOperation(
     value = "All ingredients"
     notes = "Returns an array of all ingredients known in the system",

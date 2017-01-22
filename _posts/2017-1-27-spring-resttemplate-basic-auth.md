@@ -17,7 +17,7 @@ To provide a special `RestTemplate` that uses this interceptor, a class like `Ba
 
 At first we're gonna implement the required interceptor. As promised, very simple.
 
-```
+``` java
 public class BasicAuthInterceptor implements ClientHttpRequestInterceptor {
 
     private String username;
@@ -46,7 +46,7 @@ It knows the needed credentials for the realm and how to encode and append them 
 
 Now we gonna use it in our slightly smarter `BasicAuthRestTemplate`. Internally it simply uses `setRequestFactory` to overwrite the factory that creates the resulting HTTP requests.
 
-```
+``` java
 public class BasicAuthRestTemplate extends RestTemplate {
 
     private String username;
@@ -76,7 +76,7 @@ Short, beautiful and not complex.
 
 It's just as easy to use as the plain old `RestTemplate`.
 
-```
+``` java
 BasicAuthRestTemplate restTemplate = new BasicAuthRestTemplate("user", "password");
 ResponseEntity<String> result = restTemplate.getForEntity("http://google.de", String.class);
 ```
