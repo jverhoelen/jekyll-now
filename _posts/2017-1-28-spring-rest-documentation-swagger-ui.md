@@ -7,9 +7,9 @@ When working in a context where services communicate to each other over REST, it
 
 ## Swagger Specification and Springfox
 
-Independent of language or framework, the [Swagger Specification](http://swagger.io/specification/) describes a format to describe REST APIs. It contains all aspects that REST can make use of and is agnostic to how to decided to build your interface.
+Independent of language or framework, the [Swagger Specification](http://swagger.io/specification/ "Language agnostic Swagger specification") describes a format to describe REST APIs. It contains all aspects that REST can make use of and is agnostic to how to decided to build your interface.
 
-[Springfox](http://springfox.io) is an implementation of the Swagger Specification for Spring. It is awesome and easy to use. On top of the Swagger specification the Swagger-UI is built to provide a beautiful and convenient user interface to browse the API docs. Springfox provides both artifacts in separate dependencies, so you could use them without each other.
+[Springfox](http://springfox.io "Springfox, a Java Spring implementation of Swagger") is an implementation of the Swagger Specification for Spring. It is awesome and easy to use. On top of the Swagger specification the Swagger-UI is built to provide a beautiful and convenient user interface to browse the API docs. Springfox provides both artifacts in separate dependencies, so you could use them without each other.
 
 ## Basic Implementation
 
@@ -130,11 +130,11 @@ public List<Ingredient> getAll(
 
 This request has a dedicated title, notes and some tags. It also has a special description for the response code `500`. Furthermore the `search` `@RequestParam` is being described a little more.
 
-In total, there is pretty proud (list of Swagger Annotations)[https://github.com/swagger-api/swagger-core/wiki/Annotations] you can make use of to describe your API a bit more, when needed.
+In total, there is pretty proud (list of Swagger Annotations)[https://github.com/swagger-api/swagger-core/wiki/Annotations "Java Swagger Annotations"] you can make use of to describe your API a bit more, when needed.
 
 
 ## Conclusion
 
 The Springfox implementation of Swagger integrates well with Spring (Boot). Without explicit definition of how request and response models have to look, Springfox pulls as much information from Springs request definitions. It combines them with global definitions such as error code or API metadata. Swagger-UI offers a convenient website to browse the REST API docs and even try out requests in real.
 
-If you need to provide API docs to your own or other teams, there is no hassle in using it. It is not not invasive to your code, deployment and operations at all and ship out of two dependencies. Large manually maintained documentation files now cling to the past. 
+If you need to provide API docs to your own or other teams, there is no hassle in using it. It is not not invasive to your code, deployment and operations at all and ship out of two dependencies. Large manually maintained documentation files now cling to the past.

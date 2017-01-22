@@ -11,7 +11,7 @@ To solve this problem we require three things:
 - Commitment to our Definition of Done: We are only "done" when things are documented
 - Good structure and tooling for the resulting documentation
 
-The first two requirements are given if you are willing to do this. For the last one, I started to create and develop a tool: [moddoc](https://github.com/jverhoelen/moddoc), standing for modular documentation.
+The first two requirements are given if you are willing to do this. For the last one, I started to create and develop a tool: [moddoc](https://github.com/jverhoelen/moddoc "Moddoc - Simple documentation PDF builder from AsciiDoc"), standing for modular documentation.
 
 ## Approach
 
@@ -27,8 +27,8 @@ If you fulfill them, it rewards you with the ability to build a single PDF file 
 
 ## Implementation and Usage
 
-To try it out, download or fork [moddoc](https://github.com/jverhoelen/moddoc) as another module of your project hierarchy. It will contain your common documentation (`common/`), configuration (`config.json` and `common/modules.adoc`) and brings you the needed build tool.
+To try it out, download or fork [moddoc](https://github.com/jverhoelen/moddoc "Moddoc - Simple documentation PDF builder from AsciiDoc") as another module of your project hierarchy. It will contain your common documentation (`common/`), configuration (`config.json` and `common/modules.adoc`) and brings you the needed build tool.
 
-To generate the resulting documentation, install the dependencies with `npm install`, make sure to have the [asciidoctor-pdf ruby gem](http://asciidoctor.org/docs/convert-asciidoc-to-pdf/#install-the-published-gem) installed and hit `npm run build` to build it.
+To generate the resulting documentation, install the dependencies with `npm install`, make sure to have the [asciidoctor-pdf ruby gem](http://asciidoctor.org/docs/convert-asciidoc-to-pdf/#install-the-published-gem "Asciidoctor-pdf ruby gem") installed and hit `npm run build` to build it.
 
 There you go. Feel free to comment your opinion and ideas or insert issues!
