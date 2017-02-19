@@ -5,7 +5,11 @@ title: Elegant Basic Auth with the Spring RestTemplate
 
 Communication via HTTP calls is a very common task for Spring applications in times of service oriented and microservice architectures. To secure services from unwanted access, HTTP Basic Access Authentication is a simple and sufficient (assuming usage of HTTPS) strategy.
 
-We probably want to use the `RestTemplate` being provided by Spring directly. Unfortunately it doesn't offer support for any kind of authentication out of the box. The Spring community on the Internet already found solutions to overcome this circumstance, of course. But most of them didn't make me completely happy, so here is mine.
+We probably want to use the `RestTemplate` being provided by Spring directly. ~~Unfortunately it doesn't offer support for any kind of authentication out of the box.~~ The Spring community on the Internet already found solutions to overcome this circumstance, of course. But most of them didn't make me completely happy, so here is mine.
+
+**Important note**: In the meanwhile I found out about `RestTemplateBuilder.basicAuthorization` which makes this blog post superfluous. [See the method docs](http://docs.spring.io/spring-boot/docs/current/api/org/springframework/boot/web/client/RestTemplateBuilder.html#basicAuthorization-java.lang.String-java.lang.String-) on how to use it.
+
+Feel free to be happy with that and not read further. Anyway, I kept my solution it here in case you're still interested.
 
 ## Concept
 
