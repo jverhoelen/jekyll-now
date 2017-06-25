@@ -23,8 +23,9 @@ So, listen to your tools and let's have a look together for some general ones. A
 
 This list contains shortcuts that work in OS X, terminal, Finder, browser and todays' cool IDEs.
 
-| ⌘ + ⇥                   | Switch between open applications                            |
+| Shortcut                | What it does                                                |
 |-------------------------|-------------------------------------------------------------|
+| ⌘ + ⇥                   | Switch between open applications                            |
 | ⌘ + Space               | Open Spotlight to search for things                         |
 | ⌘ + {C &#124; V &#124; X &#124; A &#124; F} | {Copy &#124; Paste &#124; Cut &#124; Select all &#124; Search} text             |
 | ⌘ + {T &#124; W}             | Open new tab/Close current (Finder, browser, terminal, IDE) |
@@ -35,8 +36,9 @@ This list contains shortcuts that work in OS X, terminal, Finder, browser and to
 
 An IDE is not only about files and text, it's about displaying code as cohesive programs and enabling us to maintain and extend them best possible. Therefor it offers a lot of actions that normal text editors do not know. IntelliJ IDEA is the one I use mostly together with a customized Atom installation (which is also able to adapt the key-map of IDEA by a plugin).
 
-| ⌘ + O                | Search for a file                        |
+| Shortcut             | What it does                             |
 |----------------------|------------------------------------------|
+| ⌘ + O                | Search for a file                        |
 | ⌘ + A                | Search actions                           |
 | Double shift         | Search in all files                      |
 | Ctrl + Space         | Auto completion                          |
@@ -49,8 +51,9 @@ An IDE is not only about files and text, it's about displaying code as cohesive 
 
 What I observed from myself, I tend to use my mouse more often when it comes to text selection. This happens very often as a Developer. Writing code, messages in Slack, writing emails or tweeting – we write tons of words per day. Most of it is not final, so we have to edit it. To edit it, we have to select it. It seems obvious to use the mouse for that but in theory we don't have to because everything can be done with a keyboard. Let's see...
 
-| ⌘ + {⬅ &#124; ➡}             | Jump to start/end of line                         |
+| Shortcut             | What it does                         |
 |-------------------------|---------------------------------------------------|
+| ⌘ + {⬅ &#124; ➡}             | Jump to start/end of line                         |
 | Alt + {⬅ &#124; ➡}           | Jump to next word on the left/right               |
 | Shift + {⬅ &#124; ➡ &#124; ⬆ &#124; ⬇} | Select text into direction (by character or line) |
 | (all above) + Shift     | Move selection while cursor is moving             |
