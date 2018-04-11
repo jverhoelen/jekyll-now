@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Apache Web Server: 8 Tipps to secure your server"
+category: "Security"
 ---
 
 In year 2016 Apache runs [50%](http://de.statista.com/statistik/daten/studie/181588/umfrage/marktanteil-der-meistgenutzten-webserver/) of all websites on the internet. More than 440.000 new websites are [launched daily](https://www.quora.com/How-many-websites-are-created-each-year-month-week) while about 45.000 [are hacked again that day](http://www.forbes.com/sites/jameslyne/2013/09/06/30000-web-sites-hacked-a-day-how-do-you-host-yours/#44c1de113a8c). Not relevant for your site? Please think again. We will show you how to configure your freshly obtained hosting package or server with a secure Apache server.
@@ -19,7 +20,7 @@ Many server owners, especially when hosting small websites, are not aware of the
 This list has no end. That’s not all possible trouble by far. To overcome these impacts, hosting should be only done by experienced and competent persons. No matter if you dive into the topics on your own very dedicated or want to outsource it to another party. In any case, get help by an expert if you don’t know what you’re doing or what to do.
 
 
-##Apache – Always baiting the bees
+## Apache – Always baiting the bees
 
 For the operations of websites, web servers are the first point being attacked once you expose them to the internet. In this case Apache 2.x offers its services via http and https (port 80 and 443). During the next sections we will show you how to properly configure your Apache.
 

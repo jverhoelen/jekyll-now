@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Spring Data queries using the JPA Criteria API
+category: "Java"
 ---
 
 Spring has nice features for data persistence and gives you simple data access abstractions. Standard queries in Spring Data repositories are easy but when it comes to complex queries, people tend to use the `@Query` annotation. For some cases, it is complex to write these queries. Therefor I prefer the JPA Criteria API and how to improve complex queries using that.

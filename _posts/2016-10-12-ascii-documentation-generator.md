@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Documenting Your Knowledge in Large Projects
+category: "Documentation"
 ---
 
 Everyone of us knows the pain of bad or missing documentation. It's a critical element for onboarding, knowledge transfer and knowledge conversation within a software project. If you're in a five person team, tasks are done asynchronously and there are quite a few repositories, modules, services or however you call it, there is *no way without documentation*. You must fill the gap of missing knowledge of your colleagues to craft good software.

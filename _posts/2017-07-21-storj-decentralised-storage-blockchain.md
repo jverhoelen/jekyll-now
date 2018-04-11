@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Storj – Decentralized Cloud Storage on the Blockchain"
+category: "Blockchain"
 ---
 
 Some days ago I published an introduction to Blockchain and what it could be used for (<a href="https://blog.codecentric.de/en/2017/07/what-is-blockchain/" target="_blank">Blockchain, the next big thing?</a>). Yet there are already a lot of startups building interesting products with this kind of technology.

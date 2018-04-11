@@ -25,7 +25,7 @@ body {
 
 .container {
   margin: 0 auto;
-  max-width: 740px;
+  max-width: 840px;
   padding: 0 10px;
   width: 100%;
 }
@@ -36,7 +36,8 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: bold;
 
   line-height: 1.7;
-  margin: 1em 0 15px;
+  margin-top: 22px;
+  margin-bottom: 15px;
   padding: 0;
 
   @include mobile {
@@ -49,6 +50,9 @@ h1 {
   a {
     color: inherit;
   }
+
+  margin-top: 5px;
+  margin-bottom: 30px;
 }
 
 h2 {
@@ -65,7 +69,7 @@ h4 {
 }
 
 p {
-  margin: 15px 0;
+  margin-bottom: 40px;
 }
 
 a {
@@ -78,7 +82,7 @@ a {
 }
 
 ul, ol {
-  margin: 15px 0;
+  margin-bottom: 45px;
   padding-left: 30px;
 }
 
@@ -116,8 +120,18 @@ img {
 }
 
 .date {
+  font-size: 1.1em;
+  margin-bottom: 45px;
   font-style: italic;
-  color: $gray;
+}
+
+.date-preview {
+  font-size: 1em;
+  margin-bottom: 25px;
+}
+
+.entry-preview p {
+  margin-bottom: 15px;
 }
 
 // Specify the color of the selection
@@ -241,9 +255,9 @@ nav {
 // .main
 //
 
-.posts > .post {
+.posts > .post, .archive-group {
   padding-bottom: 2em;
-  border-bottom: 1px solid $lightGray;
+  border-bottom: 2px solid $lightGray;
 }
 
 .posts > .post:last-child {
@@ -262,7 +276,9 @@ nav {
   }
 
   .comments {
-    margin-top: 10px;
+    margin-top: 3em;
+    padding-top: 2em;
+    border-top: 2px solid $lightGray;
   }
 
   .read-more {

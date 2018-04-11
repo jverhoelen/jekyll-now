@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Migrating from Fish Shell to Zsh
+category: "Productivity"
 ---
 
 I've been using Fish Shell for MacOS for about four years before I finally decided to switch to Zsh. Why? I was simply annoyed to Fishs incompatibilities with Bash commands. Remembering another syntax for setting and exporting environment variables and missing support for the ``&&`` operator were the top of the iceberg.

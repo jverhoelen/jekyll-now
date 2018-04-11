@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Utilizing Keyboard Shortcuts like a Pro
+category: "Productivity"
 ---
 
 As a software developer you always have a big choice of kind of skills in which you can improve yourself. Most of them are pretty complex, require you to learn new concepts and paradigms. Some on the other hand are basic and have touch points with the majority of our working time. As always, we should go for the low hanging fruits to improve ourselves. Today: Learning and using keyboard shortcuts as a Developer – Probably also interesting for everyone else dealing with text editors.

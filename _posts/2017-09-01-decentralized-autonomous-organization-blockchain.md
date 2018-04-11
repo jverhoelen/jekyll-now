@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Decentralized Autonomous Organization – Organizations on the Blockchain"
+category: "Blockchain"
 ---
 
 Decentralized Autonomous Organization is a new kind of organization that emerged from the blockchain technology. It's a way of organizing various stakeholders, their financial interactions and processes that can be used in the organization.

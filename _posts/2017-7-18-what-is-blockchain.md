@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "What is Blockchain? Is it the next big thing?"
+category: "Blockchain"
 ---
 
 Blockchain fuels digital currencies like Bitcoin, Ethereum and a lot more. FinTech companies and startups started to utilize Blockchain to disrupt the classic financial industry. Also more institutes and governments are doing research and start interesting projects.

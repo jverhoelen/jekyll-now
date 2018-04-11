@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Documenting Spring REST APIs with Swagger
+category: "Java"
 ---
 
 When working in a context where services communicate to each other over REST, it is quite helpful to properly document those APIs. Especially when services are developed and maintained by different teams it saves time and confusion to provide a single entry point for REST API documentation.

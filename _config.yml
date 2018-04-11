@@ -4,7 +4,7 @@ name: Jonas Verhoelen
 # Short bio or description (displayed in the header)
 description: IT Consultant @ codecentric AG
 
-metaDesc: Jonas Verhoelen blogs about Java, Spring, TypeScript, Angular, Continuous Integration and other IT related stuff he's interested in.
+metaDesc: About agile software development with all kinds of tech. This includes JVM languages such as Java, Kotlin and Scala with the Spring framework. Also I'm into JavaScript, TypeScript and the world of frontend development. Fascinated by Blockchain technology like Hyperledger, Ethereum, IOTA & more. 
 
 # Opengraph image
 image: og.png
@@ -54,7 +54,7 @@ baseurl: ""
 # !! You don't need to change any of the configuration flags below !!
 #
 
-permalink: /:title/
+permalink: /:categories/:title/
 
 # The release of Jekyll Now that you're using
 version: v1.2.0

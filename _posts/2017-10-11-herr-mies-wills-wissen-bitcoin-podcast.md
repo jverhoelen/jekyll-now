@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "(GER) Herr Mies will's wissen #9 – Bitcoin Podcast"
+category: "Blockchain"
+tags: [Podcast, codecentric]
 ---
 
 [Daniel Mies](https://twitter.com/danielmies), one of my great workmates at [codecentric AG](https://codecentric.de), invited me to join his German podcast "Herr Mies will's wissen" for an episode on an [introduction to Bitcoin](https://mies.me/2017/10/11/hmww09-bitcoin/). As I worked pretty much with Blockchain technology and cryptocurrency related analysis the past months, I of course accepted and joined Daniel. More than half an hour we had a nice talk about it on a pretty basic level. For all of you guys that want to understand what Bitcoin basically is about, this episode might be interesting.
