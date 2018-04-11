@@ -6,14 +6,18 @@
     <meta name="description" content="{{ page.excerpt| strip_html }}" />
     <meta property="og:description" content="{{ page.excerpt| strip_html }}" />
     <meta name="twitter:description" content="{{ page.excerpt| strip_html }}" />
-    <meta property="og:image" content="{{ site.ogImageUrl }}" />
     <meta property="og:type" content="article" />
     {% else %}
     <meta name="description" content="{{ site.metaDesc }}">
     <meta property="og:description" content="{{ site.metaDesc }}" />
     <meta name="twitter:description" content="{{ site.metaDesc }}" />
-    <meta property="og:image" content="{{ site.ogImageUrl }}" />
     <meta property="og:type" content="website" />
+    {% endif %}
+
+    {% if page.image %}
+    <meta property="og:image" content="{{ site.baseurl }}images/{{ page.image }}">
+    {% else %}
+    <meta property="og:image" content="{{ site.baseurl }}images/{{ site.image }}">
     {% endif %}
 
     <meta name="author" content="{{ site.name }}" />

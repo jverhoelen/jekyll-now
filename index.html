@@ -7,12 +7,16 @@ layout: default
     <article class="post">
 
       <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
-
-      <div class="entry">
-        {{ post.excerpt }}
+      <div class="date">
+        {{ post.date | date: "%B %e, %Y" }}
       </div>
 
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more" title="Read more: {{ post.title }}">Read More</a>
+      <div class="entry">
+        {{ post.excerpt | replace: '</p>', '' }}
+        <a href="{{ site.baseurl }}{{ post.url }}" class="read-more" title="Read more: {{ post.title }}">Read More</a>
+        </p>
+      </div>
+
     </article>
   {% endfor %}
 </section>

@@ -21,7 +21,7 @@ To provide a special `RestTemplate` that uses this interceptor, a class like `Ba
 
 At first we're gonna implement the required interceptor. As promised, very simple.
 
-``` java
+{% highlight java %}
 public class BasicAuthInterceptor implements ClientHttpRequestInterceptor {
 
     private String username;
@@ -44,7 +44,7 @@ public class BasicAuthInterceptor implements ClientHttpRequestInterceptor {
         return "Basic " + new Base64().encodeToString((username + ":" + password).getBytes());
     }
 }
-```
+{% endhighlight %}
 
 It knows the needed credentials for the realm and how to encode and append them to represent the wanted `Authorization` header.
 
