@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Migrating from Fish Shell to Zsh
+last_modified_at: "2016-12-26"
 category: "Productivity"
 ---
 

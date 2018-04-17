@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Storj – Decentralized Cloud Storage on the Blockchain"
+last_modified_at: "2017-07-21"
 category: "Blockchain"
 ---
 

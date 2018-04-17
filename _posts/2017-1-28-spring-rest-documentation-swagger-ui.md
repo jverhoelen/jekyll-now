@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Documenting Spring REST APIs with Swagger
+last_modified_at: "2017-01-28"
 category: "Java"
 ---
 

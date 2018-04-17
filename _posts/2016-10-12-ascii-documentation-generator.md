@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Documenting Your Knowledge in Large Projects
+last_modified_at: "2016-10-12"
 category: "Documentation"
 ---
 

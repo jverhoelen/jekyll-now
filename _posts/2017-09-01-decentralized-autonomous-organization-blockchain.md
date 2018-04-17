@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Decentralized Autonomous Organization – Organizations on the Blockchain"
+last_modified_at: "2017-09-01"
 category: "Blockchain"
 ---
 

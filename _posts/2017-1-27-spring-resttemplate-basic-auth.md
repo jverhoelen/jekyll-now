@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Elegant Basic Auth with the Spring RestTemplate
+last_modified_at: "2016-01-27"
 category: "Java"
 ---
 

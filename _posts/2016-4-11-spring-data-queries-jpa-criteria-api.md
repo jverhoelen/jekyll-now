@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Spring Data queries using the JPA Criteria API
+last_modified_at: "2016-04-11"
 category: "Java"
 ---
 
