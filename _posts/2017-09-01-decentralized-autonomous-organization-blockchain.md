@@ -9,6 +9,6 @@ Decentralized Autonomous Organization is a new kind of organization that emerged
 
 Currently there are few real world examples since the ideas is relatively new. Still the idea seems to gain some interesting developments and should be kept in sight because it could serve some advantages for some organizations.
 
-You can find my article on the codecentric blog: [Decentralized Autonomous Organization – Organizations on the Blockchain](https://blog.codecentric.de/en/2017/09/decentralized-autonomous-organization-blockchain/).
+You can find my article on the codecentric blog: [Decentralized Autonomous Organization – Organizations on the Blockchain](https://blog.codecentric.de/en/2017/09/decentralized-autonomous-organization-blockchain/){:target="_blank" rel="noopener noreferrer"}.
 
 I would like to hear your ideas and feedback regarding Blockchain and Decentralized Autonomous Organizations if you are interested.

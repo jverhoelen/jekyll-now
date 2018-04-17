@@ -5,7 +5,7 @@ last_modified_at: "2016-02-06"
 category: "Security"
 ---
 
-In year 2016 Apache runs [50%](http://de.statista.com/statistik/daten/studie/181588/umfrage/marktanteil-der-meistgenutzten-webserver/) of all websites on the internet. More than 440.000 new websites are [launched daily](https://www.quora.com/How-many-websites-are-created-each-year-month-week) while about 45.000 [are hacked again that day](http://www.forbes.com/sites/jameslyne/2013/09/06/30000-web-sites-hacked-a-day-how-do-you-host-yours/#44c1de113a8c). Not relevant for your site? Please think again. We will show you how to configure your freshly obtained hosting package or server with a secure Apache server.
+In year 2016 Apache runs [50%](http://de.statista.com/statistik/daten/studie/181588/umfrage/marktanteil-der-meistgenutzten-webserver/){:target="_blank" rel="noopener noreferrer"} of all websites on the internet. More than 440.000 new websites are [launched daily](https://www.quora.com/How-many-websites-are-created-each-year-month-week){:target="_blank" rel="noopener noreferrer"} while about 45.000 [are hacked again that day](http://www.forbes.com/sites/jameslyne/2013/09/06/30000-web-sites-hacked-a-day-how-do-you-host-yours/#44c1de113a8c){:target="_blank" rel="noopener noreferrer"}. Not relevant for your site? Please think again. We will show you how to configure your freshly obtained hosting package or server with a secure Apache server.
 
 ## Impacts of lacking server security
 
@@ -131,7 +131,7 @@ This module is giving us huge progress in securing the server. With 'service apa
 
 ### 8 – Secure admin areas of applications
 
-Of course we should only operate secure applications on our web servers but furthermore we can and should also protect their backends. I am talking about popular CMS-, shop- and blog-applications like WordPress, Joomla, Shopware and co. At first they have to be configured in a secure way themselves (correct file permissions, strong passwords, secure databases, v-host configurations). Afterwards we make us of Apaches own security measures and protect login areas which we only use for ourselves. In-built concepts like .htaccess and .htpasswd files enable us to do so. The .htpasswd file defines all possible users and passwords while .htaccess defines the authentication kind and meta data. To create them, I would like to [redirect you to one of the available tools](http://www.web2generators.com/apache-tools/htpasswd-generator) out there. It makes much sense to secure e.g. WordPress' 'wp-admin' folder using this approach.
+Of course we should only operate secure applications on our web servers but furthermore we can and should also protect their backends. I am talking about popular CMS-, shop- and blog-applications like WordPress, Joomla, Shopware and co. At first they have to be configured in a secure way themselves (correct file permissions, strong passwords, secure databases, v-host configurations). Afterwards we make us of Apaches own security measures and protect login areas which we only use for ourselves. In-built concepts like .htaccess and .htpasswd files enable us to do so. The .htpasswd file defines all possible users and passwords while .htaccess defines the authentication kind and meta data. To create them, I would like to [redirect you to one of the available tools](http://www.web2generators.com/apache-tools/htpasswd-generator){:target="_blank" rel="noopener noreferrer"} out there. It makes much sense to secure e.g. WordPress' 'wp-admin' folder using this approach.
 
 
 ## Conclusion

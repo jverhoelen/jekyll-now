@@ -9,9 +9,9 @@ When working in a context where services communicate to each other over REST, it
 
 ## Swagger Specification and Springfox
 
-Independent of language or framework, the [Swagger Specification](http://swagger.io/specification/ "Language agnostic Swagger specification") describes a format to describe REST APIs. It contains all aspects that REST can make use of and is agnostic to how to decided to build your interface.
+Independent of language or framework, the [Swagger Specification](http://swagger.io/specification/ "Language agnostic Swagger specification"){:target="_blank" rel="noopener noreferrer"} describes a format to describe REST APIs. It contains all aspects that REST can make use of and is agnostic to how to decided to build your interface.
 
-[Springfox](http://springfox.io "Springfox, a Java Spring implementation of Swagger") is an implementation of the Swagger Specification for Spring. It is awesome and easy to use. On top of the Swagger specification the Swagger-UI is built to provide a beautiful and convenient user interface to browse the API docs. Springfox provides both artifacts in separate dependencies, so you could use them without each other.
+[Springfox](http://springfox.io "Springfox, a Java Spring implementation of Swagger"){:target="_blank" rel="noopener noreferrer"} is an implementation of the Swagger Specification for Spring. It is awesome and easy to use. On top of the Swagger specification the Swagger-UI is built to provide a beautiful and convenient user interface to browse the API docs. Springfox provides both artifacts in separate dependencies, so you could use them without each other.
 
 ## Basic Implementation
 
@@ -132,7 +132,7 @@ public List<Ingredient> getAll(
 
 This request has a dedicated title, notes and some tags. It also has a special description for the response code `500`. Furthermore the `search` `@RequestParam` is being described a little more.
 
-In total, there is pretty proud (list of Swagger Annotations)[https://github.com/swagger-api/swagger-core/wiki/Annotations "Java Swagger Annotations"] you can make use of to describe your API a bit more, when needed.
+In total, there is pretty proud (list of Swagger Annotations)[https://github.com/swagger-api/swagger-core/wiki/Annotations "Java Swagger Annotations"]{:target="_blank" rel="noopener noreferrer"} you can make use of to describe your API a bit more, when needed.
 
 
 ## Conclusion

@@ -46,7 +46,7 @@ An IDE is not only about files and text, it's about displaying code as cohesive 
 | Ctrl + Space         | Auto completion                          |
 | Shift + Ctrl + Space | Smart auto completion                    |
 | Ctrl + T             | Refactor this (refactoring context menu) |
-| Ctrl + G             | Add current selection to [multicursor](https://www.jetbrains.com/help/idea/2016.3/multicursor.html) |
+| Ctrl + G             | Add current selection to [multicursor](https://www.jetbrains.com/help/idea/2016.3/multicursor.html){:target="_blank" rel="noopener noreferrer"} |
 | Ctrl + G + ⌘ | Add all equal tokens of the current selection to multicursor |
 
 ## Text Selection
