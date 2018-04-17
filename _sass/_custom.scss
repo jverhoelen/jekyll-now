@@ -1,0 +1,52 @@
+.date {
+    font-size: 1.1em;
+    margin-bottom: 45px;
+    font-style: italic;
+}
+
+img.emoji {
+    position: relative;
+    top: 3px;
+}
+  
+.date-preview {
+    font-size: 1em;
+    margin-bottom: 25px;
+}
+
+.publications {
+    > div {
+        text-align: center;
+        padding-left: 35px !important;
+        padding-right: 35px !important;
+        margin-bottom: 35px;
+
+        @extend .col-lg-6;
+        @extend .col-md-6;
+        @extend .col-sm-6;
+        @extend .col-xs-12;
+
+        .image {
+            a, img {
+                display: block
+            }
+        }
+
+        .metas {
+            margin-top: 5px;
+        }
+
+        h3 {
+            margin-top: 16px;
+        }
+
+        .title {
+            display: block
+        }
+
+        .date {
+            @extend .date;
+            @extend .date-preview;
+        }
+    }
+}

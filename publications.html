@@ -1,0 +1,40 @@
+---
+layout: page
+title: Publications
+permalink: /publications/
+date: "2018-04-17"
+last_modified_at: "2018-04-17"
+---
+
+<div>
+    <p style="margin-bottom:75px">Besides the articles on this blog, I sometimes write for other blogs and magazines. Check out if there is something interesting
+        for you and have fun.</p>
+
+    <div class="row publications">
+        {% for publication in site.publications %}
+        <div>
+            {% if publication.image %}
+            <div class="image">
+                <a href="{{ publication.link }}" target="_blank" rel="noopener noreferrer">
+                    <img src="{{ publication.image }}" alt="{{ publication.alt }}" title="{{ publication.title }}" />
+                </a>
+            </div>
+            {% else %}
+            <div class="image">
+                <a href="{{ publication.link }}" target="_blank" rel="noopener noreferrer">
+                    <img src="https://dummyimage.com/630x353/000/fff?text=Uncool%20placeholder" alt="{{ publication.alt }}" title="{{ publication.title }}" />
+                </a>
+            </div>
+            {% endif %}
+            <div class="metas">
+                <span class="date">{{ publication.date }}</span> @ <strong>{{ publication.place }}</strong> in :{{ publication.lang }}: 
+            </div>
+            <h3>
+            <a class="title" target="_blank" rel="noopener noreferrer" href="{{ publication.link }}">
+                {{ publication.title }}
+            </a>
+            </h3>
+        </div>
+        {% endfor %}
+    </div>
+</div>

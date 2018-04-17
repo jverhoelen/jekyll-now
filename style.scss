@@ -119,17 +119,6 @@ img {
   max-width: none;
 }
 
-.date {
-  font-size: 1.1em;
-  margin-bottom: 45px;
-  font-style: italic;
-}
-
-.date-preview {
-  font-size: 1em;
-  margin-bottom: 25px;
-}
-
 .entry-preview p {
   margin-bottom: 15px;
 }
@@ -370,3 +359,5 @@ table > tfoot > tr.active > th {
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 @import "highlights";
 @import "svg-icons";
+@import "custom";
+@import "flexboxgrid";
