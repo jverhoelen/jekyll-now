@@ -95,70 +95,82 @@ publications:
     link: https://blog.codecentric.de/en/2018/04/blockchain-application-fabric-composer/
     place: codecentric
     alt: ""
+    image: "/images/publications/fabric-composer.png"
     lang: gb
   - date: "2018-04-10"
     title: "Implementierung einer Blockchain-Anwendung mit Hyperledger Fabric und Composer"
     link: "https://www.informatik-aktuell.de/betrieb/virtualisierung/eine-blockchain-anwendung-mit-hyperledger-fabric-und-composer.html"
     place: "Informatik Aktuell"
     alt: ""
+    image: "/images/publications/fabric-composer.png"
     lang: de
   - date: "2018-03-21"
     title: "An overview of Hyperledger blockchain projects"
     link: "https://blog.codecentric.de/en/2018/03/blockchain-project-hyperledger/"
     place: codecentric
     alt: ""
+    image: "/images/publications/hyperledger.png"
     lang: gb
   - date: "2018-03-20"
     title: "Ein Überblick über die Hyperledger-Blockchain-Projekte"
     link: "https://blog.codecentric.de/2018/03/blockchain-projekt-hyperledger/"
     place: codecentric
     alt: ""
+    image: "/images/publications/hyperledger.png"
     lang: de
   - date: "2018-01-16"
     title: "BigchainDB – The lightweight blockchain framework"
     link: "https://blog.codecentric.de/en/2018/01/bigchaindb-blockchain-framework/"
     place: codecentric
     alt: ""
+    image: "/images/publications/bigchain-db-stockimage.jpg"
     lang: gb
   - date: "2018-01-03"
     title: "BigchainDB – Das leichtgewichtige Blockchain-Framework"
     link: "https://blog.codecentric.de/2018/01/bigchaindb-blockchain-framework/"
     place: codecentric
     alt: ""
+    image: "/images/publications/bigchain-db-stockimage.jpg"
     lang: de
   - date: "2017-10-17"
     title: "Consensus mechanisms of the blockchain"
     link: "https://blog.codecentric.de/en/2017/10/consensus-mechanisms-blockchain/"
     place: codecentric
     alt: ""
+    image: "/images/publications/chess-stock.jpg"
     lang: gb
   - date: "2017-10-16"
     title: "Konsens-Mechanismen der Blockchain"
     link: "https://blog.codecentric.de/2017/10/konsens-mechanismen-blockchain/"
     place: codecentric
     alt: ""
+    image: "/images/publications/chess-stock.jpg"
     lang: de
   - date: "2017-09-01"
     title: "Decentralized Autonomous Organization – Organizations on the Blockchain"
     link: "https://blog.codecentric.de/en/2017/09/decentralized-autonomous-organization-blockchain/"
     place: codecentric
     alt: ""
+    image: "/images/publications/dao.png"
     lang: gb
   - date: "2017-08-29"
     title: "Decentralized Autonomous Organization – Organisationen auf der Blockchain"
     link: "https://blog.codecentric.de/2017/08/decentralized-autonomous-organization-blockchain/"
     place: codecentric
     alt: ""
+    image: "/images/publications/dao.png"
     lang: de
   - date: "2017-07-18"
     title: "Was ist Blockchain?"
     link: "https://blog.codecentric.de/2017/07/was-ist-blockchain/"
     place: codecentric
     alt: ""
+    image: "/images/publications/blockchain-topic.png"
     lang: de
   - date: "2017-07-18"
     title: "Blockchain, the next big thing?"
     link: "https://blog.codecentric.de/en/2017/07/what-is-blockchain/"
     place: codecentric
     alt: ""
+    image: "/images/publications/blockchain-topic.png"
     lang: gb
