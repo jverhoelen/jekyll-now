@@ -28,7 +28,7 @@ DevCenter by default decides for himself what Java version it uses and probably 
 
 Then, at the bottom you will find configuration that looks like the following:
 
-```
+``` xml
 <dict>
     <!-- a lot of stuff above -->
     <key>Eclipse</key>
@@ -43,7 +43,7 @@ Then, at the bottom you will find configuration that looks like the following:
 
 Into the `array` element, insert the following children and make sure to adapt the old Java version you want DevCenter to use and your users name.
 
-```
+``` xml
 <string>-vm</string><string>/Users/YOUR-USER/.sdkman/candidates/java/7.0.181-zulu/bin/java</string>
 ```
 
