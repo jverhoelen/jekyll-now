@@ -96,6 +96,20 @@ exclude:
   - CNAME
 
 publications:
+  - date: "2018-08-13"
+    title: "Hyperledger Fabric test network on AWS using Ansible"
+    link: "https://blog.codecentric.de/en/2018/08/fabric-test-network-ansible-aws/"
+    place: codecentric
+    alt: ""
+    image: "/images/publications/fabric-test-network.png"
+    lang: gb
+  - date: "2018-08-13"
+    title: "Hyperledger-Fabric-Test-Netzwerk mit Ansible auf AWS aufsetzen"
+    link: "https://blog.codecentric.de/2018/08/fabric-test-netzwerk-ansible-aws/"
+    place: codecentric
+    alt: ""
+    image: "/images/publications/fabric-test-network.png"
+    lang: de
   - date: "2018-04-17"
     title: "Implementation of a blockchain application with Hyperledger Fabric and Composer"
     link: https://blog.codecentric.de/en/2018/04/blockchain-application-fabric-composer/
