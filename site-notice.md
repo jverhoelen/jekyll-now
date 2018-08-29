@@ -8,7 +8,7 @@ permalink: /site-notice/
 
 ## Contact
 
-<p>Jonas Verhoelen<br>Walder Kirchplatz 2<br>42719 Solingen</p>
+<p>Jonas Verhoelen<br>Winckelmannstraße 9<br>40699 Erkrath</p>
 
 ## Privacy Policy
 
