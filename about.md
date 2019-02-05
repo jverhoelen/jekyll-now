@@ -4,25 +4,32 @@ title: About
 permalink: /about/
 ---
 
-My name is Jonas and I am working as an IT Consultant and Software Engineer at [codecentric AG](https://codecentric.de) in Solingen. I love working with technologies from the Java and JavaScript ecosystems and to learn new things. Especially I am fired up for agile, communicative and productive working atmospheres – Maker Mindset over meetings.
-Besides working for customers, I am discovering the world of blockchain, smart contracts, IoT/micro-payments and cryptocurrencies. I see a chance for it to become a part of our future and a better world.
+Hello! My name is Jonas. Currently I work as an IT consultant and software developer at [codecentric AG](https://www.codecentric.de) in Solingen. I am passionate about solving problems related to software and people. The search for the right approach to solving problems puzzles me on a technological, human and organizational level. On the path of eternal learning I prefer to work in communicative, open and bright teams. Agile and maker mindset over meetings, flat hierarchies over leading positions and ivory towers - that is where I feel safe and productive.
 
-I love my profession, company and everything around it so I started this tiny blog to write about my opinions, experiences and solutions from time to time.
+Technologically, I am somewhere between modern JVM languages and the JavaScript & TypeScript universe. I prefer a good mix of object-oriented and functional programming and stand in for Clean Code. Since I strongly believe in ideas like T-Shaped People and DevOps, I work in the backend, frontend as well as the infrastructure and delivery of software.
+
+I've been interested in information security since I caught the first keylogger from an ICQ contact back then. Not much has changed since then. IT systems still have lots of tricky vulnerabilities that developers have to pay the utmost attention to. Especially when software tends to be developed faster and faster nowadays. That's why I attach great importance to sensitizing teams to IT security, consolidating the basics and taking appropriate countermeasures against cyber security threats in an iterative approach. Ethical hacking helps me to understand acute threats and motivations of hackers and to take countermeasures in application development.
+
+The topic around blockchain, distributed ledger technology and Bitcoin has fascinated me since the beginning of 2016. Even though it is mostly controversially discussed and misunderstood, I am still interested in the motivation and technical challenge behind decentralized systems and even crypto currencies. Should this technology mean only one percent more fairness, transparency or privacy in our complicated world, I will be satisfied. Although I am interested in blockchain, I do not call myself an enthusiast, evangelist or anything like that.
+
+I spend a lot of my free time with electric guitars, heavy metal music and sports (fitness and biking). I value my girlfriend, family my friends a lot and also try to spend a lot of time with them. Inside me I would like to save the world very often. I practice eating little meat and reducing garbage in order to contribute at least a small part to saving the world.
+
+If you are interested in making contact with me, it should be easy to do so. I look forward to seeing you soon.
 
 # codecentric AG
 
-We are [always searching](https://www.codecentric.de/karriere/offene-stellen/) for IT and Agile professionals to work for one of our 14 branches in Germany, The Netherlands, Serbia and Bosnia Herzegowina. Find out about codecentric on [our website](https://www.codecentric.com/).
+We are [always searching](https://www.codecentric.de/karriere/offene-stellen/) for IT, software development and agility professionals to work for one of our 14 branches in Germany, The Netherlands, Serbia and Bosnia. Find out about codecentric on [our website](https://www.codecentric.de/).
 
-Why you should consider working for codecentric:
+Why should you consider working for codecentric?
 
-- Own choice of methodical and technical role
-- 4+1 model: One day per week for training and education
+- Focus on self-determination: Competence enables you to jump into pretty much every role
+- 20% time model: There are around 20% of your working time for education, internal projects etc.
 - Real expert knowledge: Cross-functional knowledge and specialization ("T-shaped People")
-- Events, Feelgood Management, home office, company car, smartphone and laptop [and lots more](https://www.codecentric.de/karriere/karrieremodell/gehaltsmodell-und-benefits/)
-- Great projects, few required travels, technical leadership
-- Flat hierarchies, Agility, Thought Leadership, team spirit everywhere!
+- Events, feelgood management, home office, company car, smartphone and laptop [and lots more](https://www.codecentric.de/karriere/karrieremodell/gehaltsmodell-und-benefits/)
+- Great colleagues, projects & customers. As few travel as possible. Technology leadership.
+- Flat hierarchies, agile mindset, thought leadership and team spirit everywhere
 
-Don't hesitate to [contact the company](https://www.codecentric.de/kontakt/) if you are interested or have questions. From an employee perspective, you're always welcome to ask me, too.
+Don't hesitate to contact us if you are interested or have questions. From an employee perspective, I would be happy to help you out, too!
 
 ### Further links
 
@@ -33,4 +40,4 @@ Don't hesitate to [contact the company](https://www.codecentric.de/kontakt/) if 
 
 ### Contact
 
-You'll find a way to contact me without the risk of getting my email address spammed by bots, isn't it?
+You'll find a way to contact me without the risk of getting my email address spammed by bots, isn't it? :-)

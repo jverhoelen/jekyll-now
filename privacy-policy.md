@@ -52,9 +52,8 @@ Consent of the data subject is any freely given, specific, informed and unambigu
 Controller for the purposes of the General Data Protection Regulation (GDPR), other data protection laws applicable in Member states of the European Union and other provisions related to data protection is:
 
 <p>
-Jonas Verhoelen (Software-Entwicklung)
-Walder Kirchplatz 2<br/>
-42719 Solingen<br/>
+Jonas Verhoelen<br/>
+40699 Erkrath<br/>
 Germany<br/>
 Email: jverhoelen+website@gmail.com<br/>
 Website: https://jonas.verhoelen.de<br/>
