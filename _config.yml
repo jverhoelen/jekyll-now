@@ -3,9 +3,9 @@ name: Jonas Verhoelen
 title: Jonas Verhoelen
 
 # Short bio or description (displayed in the header)
-description: IT Consultant @ codecentric AG
+description: IT Consulting, Software Dev, InfoSec & more
 
-metaDesc: About agile software development with all kinds of tech. This includes JVM languages such as Java, Kotlin and Scala with the Spring framework. Also I'm into JavaScript, TypeScript and the world of frontend development. Fascinated by Blockchain technology like Hyperledger, Ethereum, IOTA & more. 
+metaDesc: About agile software development, InfoSec & internet. I like JVM languages like Java, Kotlin & Scala. In love with JavaScript, TypeScript, Node & frontend stuff
 
 # Opengraph image
 image: og.png
@@ -96,6 +96,20 @@ exclude:
   - CNAME
 
 publications:
+  - date: "2018-10-29"
+    title: "Continuous Integration of Hyperledger Composer applications with Gitlab CI"
+    link: "https://blog.codecentric.de/en/2018/10/continuous-integration-hyperledger-gitlab/"
+    place: codecentric
+    alt: ""
+    image: "/images/publications/ci-hyperledger-gitlab.png"
+    lang: gb
+  - date: "2018-10-19"
+    title: "Continuous Integration von Hyperledger-Composer-Anwendungen mit Gitlab CI"
+    link: "https://blog.codecentric.de/2018/10/continuous-integration-hyperledger-gitlab/"
+    place: codecentric
+    alt: ""
+    image: "/images/publications/ci-hyperledger-gitlab.png"
+    lang: de
   - date: "2018-08-13"
     title: "Hyperledger Fabric test network on AWS using Ansible"
     link: "https://blog.codecentric.de/en/2018/08/fabric-test-network-ansible-aws/"
