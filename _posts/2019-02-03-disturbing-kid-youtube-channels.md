@@ -28,7 +28,9 @@ Since the arrival of "smart" TVs, tablets and smartphones in our homes, we all k
 
 Considering the "content" of the videos found, it could be assumed that they target children under the age five. Let's call this group "young children" for the sake of simplicity. This audience includes babies, toddlers and preschoolers – a group that is not ready to explore the internet alone yet. Parking them in front of internet-ready devices often results in watching videos on platforms like YouTube. Features like autoplay, recommendation section, comment section, playlists and search results are guiding children their journey through their screen time. This results in the platform's search and ranking systems coming into play and controlling the whole flow. It's hard for young children to "break out" of that flow, as their knowledge about the internet is low and they are probably not able to read and write yet.
 
-> "I have two kinds and I'm always checking what kind of cartoons they're watching. I'm unsubscribing them all the time from this kind of crappy material. It becomes even worse when you realize that this material is not just basically nonsense but very often also violent, scary etc. It just looks like an innocent, colorful cartoon (and stupid also) but it can be really disturbing. I had to report several channels as a Disturbing content." – A colleague at work protecting his children.
+> "I have two kinds and I'm always checking what kind of cartoons they're watching. I'm unsubscribing them all the time from this kind of crappy material. It becomes even worse when you realize that this material is not just basically nonsense but very often also violent, scary etc. It just looks like an innocent, colorful cartoon (and stupid also) but it can be really disturbing. I had to report several channels as a Disturbing content."
+
+This was one of the many similar personal experiences I got to hear from coworkers who are fathers themselves.
 
 The target audience of these young children is the perfect one to place content for. Their bounce rate is low, they have a limited set of interests and are not even perfectly able to search for topics. It was just a matter of time until immoral people go their way, abusing the natural behaviour and the circumstances of [increasing media consumption by children](http://www.techaddiction.ca/media-statistics.html). Parents are a big part of these circumstances as they often have issues to look after their children, organise babysitters and keep an eye on their kids online behaviour in general.
 
@@ -50,7 +52,7 @@ These dimensions require parentals and supervisors to level up their protection 
 
 At the end of the day, the online effective protection is to care about how children consume media. There are also wishes that video platforms do something about it. Unfortunately this is not something that is expected, as the extensive distribution of similar videos is only a very spongy violation agains the platform's terms and conditions. Still there are chances that patterns in their attempts to automate their activities will reveal more violations, leading to massive deletion of content. It is also good practise to report suspicious videos and channels.
 
-Colleagues also pointed me to a TED talk informing about the topic, which might be informing in addition:
+Colleagues also pointed me to a TED talk informing about the topic, which might be interesting for you if you made it to this point of my article.
 
 <div class="embed-responsive embed-responsive-16by9">
     <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/v9EKV2nSU8w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
