@@ -12,9 +12,9 @@ Fortunately there was not a long time between the update and my next need to run
 
 SDKMan is a general purpose SDK manager that has a bunch of prominent SDKs in its portfolio. There are Java, Scala, Spark, Spring Boot Groovy and many more available. First [install SDKMan from their instructions](https://sdkman.io/install). Once installed, it tells you to open another shell window or to load the sources in the current one. After you have done that, you can install all SDKs you need.
 
-To have an older Java version available, let's get an available one from Java 7 that SDKMan suggests you with `sdk list java`. For me this was for example `7.0.181-zulu`, feel free to pick Oracle if you like. Install it with `sdk install java 7.0.181-zulu`.
+To have an older Java version available, let's get an available one from Java 7 that SDKMan suggests you with `sdk list java`. For me this was for example `7.0.181-zulu`. Install it with `sdk install java 7.0.181-zulu`.
 
-To have a new Java version (I currently need Java 8), pick a newer one executing `sdk install java 8.0.172-zulu` and pick it as default as SDKMan prompts for that.
+To have a new Java version (I currently need Java 8 and 11 for other projects), pick a newer one executing `sdk install java 8.0.172-zulu` and pick it as default. SDKMan prompts for that at the end.
 
 These two Java versions should be located in `~/.sdkman/candidates/java/<version>` now. So your Java binary for the older one is now for example `.sdkman/candidates/java/7.0.181-zulu/bin/java`.
 
