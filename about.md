@@ -20,9 +20,9 @@ The topic around blockchain, distributed ledger technology and Bitcoin has fasci
 
 ### const jonas = Human.techie('Jonas').withPrivateLife()
 
-I spend a lot of my free time with electric guitars, heavy metal music and sports (fitness and biking). I value my girlfriend, family my friends a lot and also try to spend a lot of time with them. Inside me I would like to save the world very often. I practice eating little meat and reducing garbage in order to contribute at least a small part to saving the world.
+I spend a lot of my free time with electric guitars, heavy metal music and sports (fitness and biking). I value my girlfriend, family & friends a lot and also try to spend a lot of time with them. Inside me I would like to save the world very often. I practice eating little meat and reducing garbage in order to contribute at least a small part to saving the world.
 
-If you are interested in making contact with me, it should be easy to do so. I look forward to seeing you soon.
+[Find me on Keybase.io](https://keybase.io/jverhoelen) including my proofs. I look forward to hearing from you. 
 
 ## codecentric AG
 
