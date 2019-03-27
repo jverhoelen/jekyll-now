@@ -103,13 +103,13 @@ publications:
     alt: ""
     image: "/images/publications/gopass.png"
     lang: gb
-  # - date: "2018-02-22"
-  #   title: "Passwörter mit Gopass im Team verwalten"
-  #   link: "https://blog.codecentric.de/2019/02/gopass-passwoerter-verwalten-team/"
-  #   place: codecentric
-  #   alt: ""
-  #   image: "/images/publications/gopass.png"
-  #   lang: de
+  - date: "2018-02-27"
+    title: "Passwörter mit Gopass im Team verwalten"
+    link: "https://blog.codecentric.de/2019/02/gopass-passwoerter-verwalten-team/"
+    place: codecentric
+    alt: ""
+    image: "/images/publications/gopass.png"
+    lang: de
   - date: "2018-10-29"
     title: "Continuous Integration of Hyperledger Composer applications with Gitlab CI"
     link: "https://blog.codecentric.de/en/2018/10/continuous-integration-hyperledger-gitlab/"
