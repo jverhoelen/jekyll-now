@@ -10,7 +10,7 @@ Hello, my name is Jonas. Currently I work as an IT Consultant and Software Devel
 
 Technologically, I am somewhere between modern JVM languages and the JavaScript & TypeScript universe. I prefer a good mix of object-oriented and functional programming and stand in for Clean Code. Since I strongly believe in ideas like T-Shaped People and DevOps, I work in the backend, frontend as well as the infrastructure and delivery of software. I like to work with technologies such as React, Node.js, Spring, Express.js, Docker, Kubernetes, Ansible, GitlabCI, Travis and many more. Every now and then I contribute to open-source software on Github or publish tiny tools myself.
 
-<iframe src="http://githubbadge.appspot.com/jverhoelen?a=0" style="border: 0;height: 142px;width: 200px;overflow: hidden;" frameBorder="0"></iframe>
+<iframe src="https://githubbadge.appspot.com/jverhoelen?a=0" style="border: 0;height: 142px;width: 200px;overflow: hidden;" frameBorder="0"></iframe>
 
 ### InfoSec
 
