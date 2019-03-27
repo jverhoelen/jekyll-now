@@ -4,9 +4,9 @@ title: "Introducing a Graphical User Interface for Gopass"
 category: "Security"
 ---
 
-Gopass is "the slightly more awesome standard unix password manager for teams" ([Gopass on Github](https://github.com/gopasspw/gopass)). If you want to read more about it, feel free to checkout [my detailled blog article about Gopass](https://blog.codecentric.de/en/2019/02/manage-team-passwords-gopass/).
+[Gopass](https://github.com/gopasspw/gopass) is "the slightly more awesome standard unix password manager for teams". It combines the powers of Git and GPG to achieve this. Therefor it's purely command line based – and that's great, don't get me wrong. However, non-technie-people within cross-functional teams also need access to a bunch of credentials. For this target group and all the GUI-lovers out there, we are building Gopass UI at codecentric.
 
-Gopass is purely command line based – and that's great, don't get me wrong. However, there are situations where non-technie-people within cross-functional teams also need access to a bunch of credentials. For this target group and all the GUI-lovers out there, a proper UI add-on was missing.
+If you are curious and lack a detailled introduction into Gopass, feel free to checkout [my blog article about Gopass](https://blog.codecentric.de/en/2019/02/manage-team-passwords-gopass/) on the magnificent codecentric blog.
 
 ## Welcome to Gopass UI 
 
@@ -14,7 +14,7 @@ My colleague [Matthias Rütten](https://github.com/ruettenm) and me started to f
 
 <img class="img-fluid" src="https://github.com/codecentric/gopass-ui/raw/master/docs/gopass-ui-logo.png" alt="Gopass UI logo" style="width: 500px;margin:0 auto;display:block;">
 
-Gopass UI is available for MacOS, Linux (.rpm, .deb, gentoo) and Windows at the time of writing this blog post. It is written in TypeScript and uses Electron, React and Redux. So under the hood it is just a web application living inside a Chromium browser that connects to a Node.js backend for its system calls. The only pre-requisite before using it is to have Gopass itself installed and configured. So get yourself the [latest release and install it](https://github.com/codecentric/gopass-ui/releases/latest).
+Gopass UI is available for MacOS, Linux (.rpm, .deb, gentoo) and Windows at the time of writing this blog post. It is written in TypeScript and uses Electron, React and Redux. So under the hood it is just a web application living inside a Chromium browser that connects to a Node.js backend for its system calls. The only pre-requisite before using it is to have Gopass itself installed and configured. So get yourself the [latest release and install it](https://github.com/codecentric/gopass-ui/releases/latest). We are happy that the maintainers of Gopass even let us mention Gopass UI [in the "Download a GUI" section of their setup docs](https://github.com/gopasspw/gopass/blob/master/docs/setup.md#download-a-gui).
 
 Please let us know what you think about it. Of course you are also invited to contribute to the project with us.
 
