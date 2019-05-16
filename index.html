@@ -2,10 +2,9 @@
 layout: default
 ---
 
-<section class="posts">
+<main class="posts">
   {% for post in site.posts %}
     <article class="post">
-
       <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
       <div class="date date-preview">
         {{ post.date | date: "%B %e, %Y" }} – {% if post %}
@@ -19,12 +18,29 @@ layout: default
           {% endfor %}
       </div>
 
-      <div class="entry entry-preview">
+      <section class="entry entry-preview">
         {{ post.excerpt | replace: '</p>', '' }}
         <a href="{{ site.baseurl }}{{ post.url }}" class="read-more" title="Read more about {{ post.title }}">Read More</a>
         </p>
-      </div>
+      </section>
 
+      <script type="application/ld+json">
+        {
+          "@context": "http://schema.org",
+          "@type": "BlogPosting",
+          "url": "{{ site.url }}{{ post.url }}",
+          "headline": "{{ post.title }}",
+          "keywords": "{{ categories }}",
+          "name": "{{ post.title }}",
+          "datePublished": "{{ post.date | date: "%Y-%m-%d" }}",
+          "isFamilyFriendly": "true",
+          "inLanguage": "en",
+          "author": {
+            "@type": "Person",
+            "name": "{{ site.name }}"
+          }
+        }
+      </script>
     </article>
   {% endfor %}
-</section>
+  </main>

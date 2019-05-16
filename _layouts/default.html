@@ -28,11 +28,11 @@
             <p class="site-description">IT Consultant & Developer</p>
           </div>
 
-          <nav>
-            <a href="{{ site.baseurl }}/" title="Starting page of my blog">Blog</a>
-            <a href="{{ site.baseurl }}/categories" title="All blog categories">Categories</a>
-            <a href="{{ site.baseurl }}/publications" title="Publications on other sites">Publications</a>
-            <a href="{{ site.baseurl }}/about" title="About Jonas Verhoelen">About me</a>
+          <nav class="top-navigation" aria-label="Navigation" itemscope itemtype="https://schema.org/SiteNavigationElement">
+            <a href="{{ site.baseurl }}/" title="Start page" itemprop="url">Blog</a>
+            <a href="{{ site.baseurl }}/categories" title="All blog categories" itemprop="url">Categories</a>
+            <a href="{{ site.baseurl }}/publications" title="Publications on other sites" itemprop="url">Publications</a>
+            <a href="{{ site.baseurl }}/about" title="About Jonas Verhoelen" itemprop="url">About me</a>
           </nav>
         </header>
       </div>
@@ -48,11 +48,11 @@
           <div>
             {% include svg-icons.html %}
           </div>
-          <div class="static-links">
+          <nav class="static-links">
             <a href="{{ site.baseurl }}/site-notice" title="Site Notice">Site Notice</a> |
             <a href="{{ site.baseurl }}/privacy-policy" title="Privacy Policy">Privacy Policy</a> |
             <a href="https://www.codecentric.de" target="_blank" title="codecentric AG">codecentric</a>
-          </div>
+          </nav>
         </footer>
       </div>
     </div>

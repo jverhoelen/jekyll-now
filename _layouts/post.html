@@ -6,16 +6,34 @@ layout: default
   <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ page.title }}</a></h1>
 
   <div class="date">
-      {{ page.date | date: "%B %e, %Y" }} – 
-        {% for category in page.categories %}
-        <a href="{{ site.baseurl }}/categories/#{{ category | slugize }}">{{ category }}</a>
-        {% unless forloop.last %}&nbsp;{% endunless %}
-        {% endfor %}
-    </div>
+    {{ page.date | date: "%B %e, %Y" }} – 
+      {% for category in page.categories %}
+      <a href="{{ site.baseurl }}/categories/#{{ category | slugize }}">{{ category }}</a>
+      {% unless forloop.last %}&nbsp;{% endunless %}
+      {% endfor %}
+  </div>
 
   <div class="entry">
     {{ content }}
   </div>
 
+  <script type="application/ld+json">
+    {
+      "@context": "http://schema.org",
+      "@type": "BlogPosting",
+      "url": "{{ site.url }}{{ page.url }}",
+      "headline": "{{ page.title }}",
+      "keywords": "{{ page.categories }}",
+      "name": "{{ page.title }}",
+      "datePublished": "{{ page.date | date: "%Y-%m-%d" }}",
+      "isFamilyFriendly": "true",
+      "inLanguage": "en",
+      "author": {
+        "@type": "Person",
+        "name": "{{ site.name }}"
+      }
+    }
+  </script>
+  
   {% include disqus.html %}
 </article>
