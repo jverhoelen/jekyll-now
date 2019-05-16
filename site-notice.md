@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Site Notice
-permalink: /site-notice/
+permalink: /site-notice
 ---
 
 <p>Note: This website is primarily of private nature but overlaps with my professional background. It is not intended to sell or advertise products or services to anybody. Additionally, I do not want to receive any job offers via the offered contact possibilities on this page. Thank you.</p>
