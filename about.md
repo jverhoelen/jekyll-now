@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-permalink: /about/
+permalink: /about
 ---
 
 Hello, my name is Jonas. Currently I work as an IT Consultant and Software Developer at [codecentric AG](https://www.codecentric.de) in Solingen. I am passionate about solving problems related to software and people. The search for the right approach to solving problems puzzles me on a technological, human and organizational level. On the path of eternal learning I prefer to work in communicative, open and bright teams. Agile and maker mindset over meetings, flat hierarchies over leading positions and ivory towers - that is where I feel safe and productive.
