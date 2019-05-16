@@ -8,7 +8,7 @@ layout: default
   <div class="date">
     {{ page.date | date: "%B %e, %Y" }} – 
       {% for category in page.categories %}
-      <a href="{{ site.baseurl }}/categories/#{{ category | slugize }}">{{ category }}</a>
+      <a href="{{ site.baseurl }}/categories#{{ category | slugize }}">{{ category }}</a>
       {% unless forloop.last %}&nbsp;{% endunless %}
       {% endfor %}
   </div>
