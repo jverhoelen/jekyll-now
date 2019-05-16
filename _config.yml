@@ -96,6 +96,20 @@ exclude:
   - CNAME
 
 publications:
+  - date: "2019-05-08"
+    title: "Cooking recipes for web applications with Node.js, Express.js and TypeScript"
+    link: "https://blog.codecentric.de/en/2019/05/web-app-node-js-express-js-typescript/"
+    place: codecentric
+    alt: ""
+    image: "/images/publications/express-node-cooking.png"
+    lang: gb
+  - date: "2019-05-08"
+    title: "Rezepte für Webanwendungen mit Node.js, Express.js und TypeScript"
+    link: "https://blog.codecentric.de/2019/05/web-anwendungen-mit-node-express-typescript-entwickeln/"
+    place: codecentric
+    alt: ""
+    image: "/images/publications/express-node-cooking.png"
+    lang: de
   - date: "2019-02-14"
     title: "Managing passwords in teams with Gopass"
     link: "https://blog.codecentric.de/en/2019/02/manage-team-passwords-gopass/"
