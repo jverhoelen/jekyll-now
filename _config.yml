@@ -96,6 +96,20 @@ exclude:
   - CNAME
 
 publications:
+  - date: "2019-05-31"
+    title: "Cooking recipes for web applications with Node.js, Express.js and TypeScript – Part 2"
+    link: "https://blog.codecentric.de/en/2019/05/webapps-node-express-typescript-part2/"
+    place: codecentric
+    alt: ""
+    image: "/images/publications/express-node-cooking-part2.png"
+    lang: gb
+  - date: "2019-05-28"
+    title: "Rezepte zum Entwickeln von Webanwendungen mit Node.js, Express.js und TypeScript – Teil 2"
+    link: "https://blog.codecentric.de/2019/05/webanwendungen-node-express-typescript-teil2/"
+    place: codecentric
+    alt: ""
+    image: "/images/publications/express-node-cooking-part2.png"
+    lang: de
   - date: "2019-05-08"
     title: "Cooking recipes for web applications with Node.js, Express.js and TypeScript"
     link: "https://blog.codecentric.de/en/2019/05/web-app-node-js-express-js-typescript/"
