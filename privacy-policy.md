@@ -51,12 +51,12 @@ Consent of the data subject is any freely given, specific, informed and unambigu
 ## 2. Name and Address of the controller
 Controller for the purposes of the General Data Protection Regulation (GDPR), other data protection laws applicable in Member states of the European Union and other provisions related to data protection is:
 
-<p>
-Jonas Verhoelen<br/>
-40699 Erkrath<br/>
-Germany<br/>
-Email: jverhoelen+website@gmail.com<br/>
-Website: https://jonas.verhoelen.de<br/>
+<p>Jonas Verhoelen<br>
+c/o AutorenServices.de<br>
+Birkenallee 24<br>
+36037 Fulda<br>
+Email: jverhoelen+website@gmail.com<br>
+Website: https://jonas.verhoelen.de
 </p>
 
 ## 3. Cookies

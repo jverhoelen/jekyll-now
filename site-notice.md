@@ -8,7 +8,12 @@ permalink: /site-notice
 
 ## Contact
 
-<p>Jonas Verhoelen<br>40699 Erkrath<br>Germany<br>Email: jverhoelen+website@gmail.com<br/></p>
+<p>Jonas Verhoelen<br>
+c/o AutorenServices.de<br>
+Birkenallee 24<br>
+36037 Fulda<br>
+jverhoelen+website@gmail.com
+</p>
 
 ## Privacy Policy
 
