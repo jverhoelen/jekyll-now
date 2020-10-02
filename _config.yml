@@ -96,6 +96,20 @@ exclude:
   - CNAME
 
 publications:
+  - date: "2020-10-02"
+    title: "Green Test Pyramids with Cypress – UI Testing of the Future"
+    link: "https://blog.codecentric.de/en/2020/10/cypress-ui-end2end-testing/"
+    place: codecentric
+    alt: ""
+    image: "/images/publications/cypress-test-pyramid.png"
+    lang: gb
+  - date: "2020-09-30"
+    title: "Grüne Test-Pyramiden mit Cypress – UI-Testing für die Zukunft"
+    link: "https://blog.codecentric.de/2020/09/ui-end2end-testing-cypress/"
+    place: codecentric
+    alt: ""
+    image: "/images/publications/cypress-test-pyramid.png"
+    lang: de
   - date: "2019-05-31"
     title: "Cooking recipes for web applications with Node.js, Express.js and TypeScript – Part 2"
     link: "https://blog.codecentric.de/en/2019/05/webapps-node-express-typescript-part2/"
